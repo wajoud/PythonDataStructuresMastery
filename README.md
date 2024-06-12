@@ -36,6 +36,8 @@ To get started with the examples in this repository, clone the repo to your loca
 
 ```bash
 git clone https://github.com/wajoud/PythonDataStructuresMastery.git
+```
+
 ## Usage
 
 Each data structure has its own directory containing a README file with detailed explanations and Python scripts demonstrating usage and best practices.
